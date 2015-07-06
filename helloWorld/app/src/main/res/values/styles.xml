@@ -1,11 +1,19 @@
 <resources>
 
-    <style name="HelloText" parent="@android:style/TextAppearance.Medium">
+    <style name="HelloText">
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:textSize">20pt</item>
-        <item name="android:fontFamily">sans-serif-black</item>
 
+        <item name="customFont">mplus-1c-black.ttf</item>
+    </style>
+
+    <style name="HelloText_JP" parent="@style/HelloText">
+        <item name="customFont">mplus-1c-black.ttf</item>
+    </style>
+
+    <style name="HelloText_ZH" parent="@style/HelloText">
+        <item name="customFont">NotoSansTC-Black.otf</item>
     </style>
 
 </resources>

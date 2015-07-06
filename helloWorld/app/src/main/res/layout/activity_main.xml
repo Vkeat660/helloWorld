@@ -7,20 +7,21 @@
     android:gravity="center"
     android:layout_centerInParent="true">
 
-    <TextView
-        style="@style/HelloText"
-        android:text="@string/hello_en" />
+    <com.keating.vivian.helloworld.TextViewPlus
+        style="@style/HelloText_JP"
+        android:text="@string/hello_jp" />
 
-    <TextView
+    <com.keating.vivian.helloworld.TextViewPlus
         style="@style/HelloText"
         android:text="@string/hello_fr" />
 
-    <TextView
+    <com.keating.vivian.helloworld.TextViewPlus
         style="@style/HelloText"
-        android:text="@string/hello_jp" />
+        android:text="@string/hello_sv" />
 
-    <TextView
-        style="@style/HelloText"
+    <com.keating.vivian.helloworld.TextViewPlus
+        style="@style/HelloText_ZH"
         android:text="@string/hello_zh" />
+
 
 </LinearLayout>
