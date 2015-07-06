@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Hello!</string>
 
-    <string name="hello_jp">こんにちは</string>
+    <string name="hello_jp">こんにちは!</string>
     <string name="hello_sv">Hallå</string>
     <string name="hello_fr">Salut</string>
     <string name="hello_zh">你好</string>

@@ -5,23 +5,39 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center"
+    android:clipChildren="false"
     android:layout_centerInParent="true">
 
     <com.keating.vivian.helloworld.TextViewPlus
         style="@style/HelloText_JP"
+        android:textColor="#DDDDDD"
+        android:text="@string/hello_jp" />
+    <com.keating.vivian.helloworld.TextViewPlus
+        style="@style/HelloText_JP"
+        android:textColor="#BBDDDD"
+        android:text="@string/hello_jp" />
+    <com.keating.vivian.helloworld.TextViewPlus
+        style="@style/HelloText_JP"
+        android:textColor="#99DDDD"
+        android:text="@string/hello_jp" />
+    <com.keating.vivian.helloworld.TextViewPlus
+        style="@style/HelloText_JP"
+        android:textColor="#77DDDD"
+        android:text="@string/hello_jp" />
+    <com.keating.vivian.helloworld.TextViewPlus
+        style="@style/HelloText_JP"
+        android:textColor="#55DDDD"
+        android:text="@string/hello_jp" />
+    <com.keating.vivian.helloworld.TextViewPlus
+        style="@style/HelloText_JP"
+        android:textColor="#33DDDD"
+        android:text="@string/hello_jp" />
+    <com.keating.vivian.helloworld.TextViewPlus
+        style="@style/HelloText_JP"
+        android:textColor="#11DDDD"
         android:text="@string/hello_jp" />
 
-    <com.keating.vivian.helloworld.TextViewPlus
-        style="@style/HelloText"
-        android:text="@string/hello_fr" />
 
-    <com.keating.vivian.helloworld.TextViewPlus
-        style="@style/HelloText"
-        android:text="@string/hello_sv" />
-
-    <com.keating.vivian.helloworld.TextViewPlus
-        style="@style/HelloText_ZH"
-        android:text="@string/hello_zh" />
 
 
 </LinearLayout>

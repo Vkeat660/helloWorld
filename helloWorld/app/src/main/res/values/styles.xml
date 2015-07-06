@@ -3,13 +3,15 @@
     <style name="HelloText">
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
-        <item name="android:textSize">20pt</item>
+        <item name="android:textSize">30pt</item>
 
         <item name="customFont">mplus-1c-black.ttf</item>
     </style>
 
     <style name="HelloText_JP" parent="@style/HelloText">
         <item name="customFont">mplus-1c-black.ttf</item>
+        <item name="android:layout_marginTop">-15dp</item>
+        <item name="android:layout_marginBottom">-15dp</item>
     </style>
 
     <style name="HelloText_ZH" parent="@style/HelloText">
