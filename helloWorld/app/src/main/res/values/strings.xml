@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">Hello World</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_jp">こんにちは</string>
+    <string name="hello_en">Hallå</string>
+    <string name="hello_fr">Salut</string>
+    <string name="hello_zh">你好</string>
+
 </resources>

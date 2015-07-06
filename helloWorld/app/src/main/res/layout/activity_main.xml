@@ -7,15 +7,20 @@
     android:gravity="center"
     android:layout_centerInParent="true">
 
-    <TextView android:text="@string/hello_world" android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+    <TextView
+        style="@style/HelloText"
+        android:text="@string/hello_en" />
 
-    <TextView android:text="@string/hello_world" android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+    <TextView
+        style="@style/HelloText"
+        android:text="@string/hello_fr" />
 
-    <TextView android:text="@string/hello_world" android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+    <TextView
+        style="@style/HelloText"
+        android:text="@string/hello_jp" />
 
-    <TextView android:text="@string/hello_world" android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+    <TextView
+        style="@style/HelloText"
+        android:text="@string/hello_zh" />
+
 </LinearLayout>
