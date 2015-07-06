@@ -3,7 +3,8 @@
     <style name="HelloText" parent="@android:style/TextAppearance.Medium">
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
-        <item name="android:typeface">monospace</item>
+        <item name="android:textSize">20pt</item>
+        <item name="android:fontFamily">sans-serif-black</item>
 
     </style>
 
