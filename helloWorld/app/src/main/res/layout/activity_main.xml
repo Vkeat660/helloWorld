@@ -37,7 +37,4 @@
         android:textColor="#11DDDD"
         android:text="@string/hello_jp" />
 
-
-
-
 </LinearLayout>
