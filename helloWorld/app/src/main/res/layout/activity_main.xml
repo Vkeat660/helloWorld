@@ -14,27 +14,27 @@
         android:text="@string/hello_jp" />
     <com.keating.vivian.helloworld.TextViewPlus
         style="@style/HelloText_JP"
-        android:textColor="#BBDDDD"
+        android:textColor="#DDCCDD"
         android:text="@string/hello_jp" />
     <com.keating.vivian.helloworld.TextViewPlus
         style="@style/HelloText_JP"
-        android:textColor="#99DDDD"
+        android:textColor="#DDBBDD"
         android:text="@string/hello_jp" />
     <com.keating.vivian.helloworld.TextViewPlus
         style="@style/HelloText_JP"
-        android:textColor="#77DDDD"
+        android:textColor="#DDAADD"
         android:text="@string/hello_jp" />
     <com.keating.vivian.helloworld.TextViewPlus
         style="@style/HelloText_JP"
-        android:textColor="#55DDDD"
+        android:textColor="#DD99DD"
         android:text="@string/hello_jp" />
     <com.keating.vivian.helloworld.TextViewPlus
         style="@style/HelloText_JP"
-        android:textColor="#33DDDD"
+        android:textColor="#DD88DD"
         android:text="@string/hello_jp" />
     <com.keating.vivian.helloworld.TextViewPlus
         style="@style/HelloText_JP"
-        android:textColor="#11DDDD"
+        android:textColor="#DD77DD"
         android:text="@string/hello_jp" />
 
 </LinearLayout>
